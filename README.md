@@ -84,6 +84,6 @@ https://www.sonicwall.com/support/technical-documentation
 
 This guide documents a migration process that worked for a SonicWall TZ300 to TZ280 upgrade. Other SonicWall models or firmware versions may require different steps.
 
-Always back up the original configuration, verify compatibility, and test the new firewall before deploying it into a production environment.steps.
+Always back up the original configuration, verify compatibility, and test the new firewall before deploying it into a production environment.
 
 Always back up the original configuration, verify compatibility with SonicWall documentation, and test the new firewall before deploying it into a production environment.
